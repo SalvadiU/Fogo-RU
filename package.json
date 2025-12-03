@@ -1,0 +1,31 @@
+{
+  "name": "fogo-docs-ru",
+  "version": "1.0.0",
+  "description": "Русская документация блокчейна Fogo",
+  "main": "index.js",
+  "scripts": {
+    "serve": "gitbook serve",
+    "build": "gitbook build",
+    "install": "gitbook install",
+    "publish": "gitbook build && gh-pages -d _book"
+  },
+  "keywords": [
+    "fogo",
+    "blockchain",
+    "documentation",
+    "russian",
+    "defi",
+    "svm"
+  ],
+  "author": "Fogo Team",
+  "license": "MIT",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gh-pages": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/fogo-docs-ru.git"
+  }
+}
+

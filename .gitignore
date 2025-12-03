@@ -1,0 +1,29 @@
+# GitBook
+_book/
+node_modules/
+*.epub
+*.mobi
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temp
+.tmp/
+.temp/
+
