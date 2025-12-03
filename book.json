@@ -9,6 +9,9 @@
     "readme": "README.md",
     "summary": "SUMMARY.md"
   },
+  "styles": {
+    "website": "styles.css"
+  },
   "plugins": [
     "search",
     "fontsettings",
